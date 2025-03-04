@@ -1,4 +1,4 @@
-## Hi, I am Duan2baka👋. MPhil student at Hong Kong Polytechnic University.
+## Hi👋
 
 <!--
 **Duan2baka/Duan2baka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
